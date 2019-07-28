@@ -1,0 +1,7 @@
+D:\sena odev\StreetFighterOdev\StreetFighterOdev\bin\Debug\StreetFighterOdev.exe.config
+D:\sena odev\StreetFighterOdev\StreetFighterOdev\bin\Debug\StreetFighterOdev.exe
+D:\sena odev\StreetFighterOdev\StreetFighterOdev\bin\Debug\StreetFighterOdev.pdb
+D:\sena odev\StreetFighterOdev\StreetFighterOdev\obj\Debug\StreetFighterOdev.csprojAssemblyReference.cache
+D:\sena odev\StreetFighterOdev\StreetFighterOdev\obj\Debug\StreetFighterOdev.csproj.CoreCompileInputs.cache
+D:\sena odev\StreetFighterOdev\StreetFighterOdev\obj\Debug\StreetFighterOdev.exe
+D:\sena odev\StreetFighterOdev\StreetFighterOdev\obj\Debug\StreetFighterOdev.pdb
